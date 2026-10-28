@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 # Hi, I'm Enda!
 I'm a 2nd year Physics BSc student @ [KCL](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc), and I'm interested in particle physics, general relativity, quantum systems, condensed matter physics, and emergent behavior. On the non-physics side of things, I'm also very interested in gene regulatory networks and stem cell differentiation dynamics.
 
-I'm currently working on research from a computational/numerical perspective. Find out more or say hello [here](endapeter.github.io)!
+I'm currently working on research from a computational/numerical perspective. Find out more or say hello [here](https://endapeter.github.io)!
