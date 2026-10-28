@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Enda!
+I'm a 2nd year Physics BSc student @ [KCL](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc), and I'm currently interested in theoretical physics research from a computational/numerical perspective. Find out more or say hello [here](endapeter.github.io)!
